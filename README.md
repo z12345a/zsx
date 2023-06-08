@@ -21,7 +21,7 @@ If you save the code as a file 'chart. py', you can run it by entering the follo
 python chart.py
 ```
 ##Step 3 : View image
-
+![alt text](relative/path/to/新建文件夹.png)
 
 
 ## Conclusion
